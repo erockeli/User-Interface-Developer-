@@ -25,6 +25,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	background-image: url(fitness.jpg)
 }
 ol, ul {
 	list-style: none;
@@ -42,3 +43,60 @@ table {
 	border-spacing: 0;
 }
 
+.header{
+	
+	text-align: center;
+	margin-left: 200px;
+	
+}
+
+
+.logo{
+
+	margin-right:200px;
+
+}
+
+nav{
+	display: flex;
+	justify-content: space-evenly;
+	margin-top: 40px;
+	text-align: center;
+}
+
+
+
+nav a{
+
+	margin-left: 20px;
+	margin-right: 20px;
+	
+	
+
+}
+
+h1{
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom:20px;
+	font-size: 4rem;
+
+}
+
+.title p{
+
+	text-align: center;
+	font-size: 1.5rem;
+}
+
+.Signup{
+
+	display: flex;
+	margin-left:250px;
+
+
+}
+
+.Client{
+	margin-right: 100px;
+}
