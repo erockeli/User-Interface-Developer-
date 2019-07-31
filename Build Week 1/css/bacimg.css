@@ -1,0 +1,25 @@
+.container {
+  background-image: url(../Img/fitness.jpg);
+  height: 100%;
+  background-size: cover;
+  color: white;
+}
+.container2 {
+  background-image: url(../Img/fitness2.jpg);
+  height: 100%;
+  background-size: cover;
+  color: white;
+}
+.header {
+  display: flex;
+  justify-content: space-evenly;
+}
+.title {
+  text-align: center;
+}
+.title h1 {
+  font-size: 4rem;
+}
+.title p {
+  font-size: 1.5rem;
+}

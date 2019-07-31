@@ -1,0 +1,79 @@
+.top {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 50px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}
+nav a {
+  margin-left: 20px;
+  margin-right: 20px;
+  text-decoration: none;
+  color: white;
+}
+.container {
+  background-image: url(../Img/fitness.jpg);
+  height: 100%;
+  background-size: cover;
+  color: white;
+}
+.container2 {
+  background-image: url(../Img/fitness2.jpg);
+  height: 100%;
+  background-size: cover;
+  color: white;
+}
+.header {
+  display: flex;
+  justify-content: space-evenly;
+}
+.title {
+  text-align: center;
+}
+.title h1 {
+  font-size: 4rem;
+}
+.title p {
+  font-size: 1.5rem;
+}
+.Signup {
+  margin-top: 75px;
+  display: flex;
+  justify-content: space-evenly;
+  border: none;
+}
+.Signup p {
+  font-size: 15px;
+}
+.Client {
+  padding-top: 40px 100px 40px;
+  font-size: 1.5rem;
+  border-radius: 20px;
+  height: 250px;
+  width: 400px;
+  background-color: rgba(15, 15, 15, 0.7);
+  text-align: center;
+}
+.Trainer {
+  padding-top: 40px 100px 40px;
+  font-size: 1.5rem;
+  border-radius: 20px;
+  height: 250px;
+  width: 400px;
+  background-color: rgba(15, 15, 15, 0.7);
+  text-align: center;
+}
+.login {
+  display: flex;
+  justify-content: center;
+  margin-top: 20%;
+}
+.loginsection {
+  font-size: 1.5rem;
+  border-radius: 20px;
+  height: 200px;
+  width: 250px;
+  background-color: rgba(15, 15, 15, 0.7);
+  text-align: center;
+}
